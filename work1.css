@@ -96,9 +96,7 @@ h1{
   padding-bottom:50px;
 
 }
-.work1,.work2,.work3,.work4,.work5,.work6,.work7,.work8,.work10{
-  border-bottom:dashed 1px;
-}
+
 .title{
   font-family:serif;
   font-size:30px;
@@ -123,7 +121,7 @@ h1{
 }
 @media(max-width:750px){
   .main li{
-    width:90%;
+    width:100%;
   }
   .title{
     font-family:serif;
